@@ -12,7 +12,7 @@ The Pactific Symposium on Biocomputing is an annual conference held in Hawaii, U
 - Nick Weber, Acting Director, Office of Scientific Computing Services, Center for Information Technology (CIT), National Institutes of Health (CIT)
 - Sean D. Mooney, PhD, Director, Center for Information Technology (CIT), National Institutes of Health (NIH)
 
-| ![Ojas A. Ramwala](assets/images/ramwala.jpeg) | <img src="/assets/images/weber.png" width="200" height="200"> | ![Sean D. Mooney](/assets/images/mooney.jpeg) |
+| ![Ojas A. Ramwala](assets/images/ramwala.jpeg) | ![Nick Weber](assets/images/weber_small.png) | ![Sean D. Mooney](/assets/images/mooney.jpeg) |
 |:---:|:---:|:---:|
 | **Ojas A. Ramwala, PhD**<br>Scientist I<br>School of Medicine and Public Health<br>University of Wisconsin–Madison | **Nick Weber**<br>Acting Director<br>Office of Scientific Computing Services<br>Center for Information Technology (CIT)<br>National Institutes of Health | **Sean D. Mooney, PhD**<br>Director<br>Center for Information Technology (CIT)<br>National Institutes of Health (NIH) |
 
