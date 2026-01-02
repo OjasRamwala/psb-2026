@@ -1,10 +1,16 @@
-The NIH workshop at the Pacific Symposium on Biocomputing (PSB) 2026, led by Ojas A. Ramwala, Nick Weber, and Sean D. Mooney, brings together experts in computational biology and biomedical research to discuss innovative approaches and foster collaboration.
+The NIH workshop on **The Evolving Cyberinfrastructure at the National Institutes of Health to Support Data and AI in Biomedical Research**, at the Pacific Symposium on Biocomputing (PSB) 2026, led by Ojas A. Ramwala, Nick Weber, and Sean D. Mooney, brings together experts in computational biology and biomedical research to discuss innovative approaches and foster collaboration.
 
 The rapidly transforming landscape of acquiring, sharing, and processing data has fueled the burgeoning volume of biomedical and clinical data. It is imperative to support biomedical computing investigators in utilizing this wealth of biologically meaningful information. Advancements in AI techniques, in conjunction with improved capabilities in implementing large-scale data processing pipelines, have led to the development of robust computational methods and algorithms to solve complex biological problems. However, there are many challenges associated with providing researchers with secured systems for accessing biological data and computational resources that must be addressed. The NIH has established a novel set of tools that provides for secured biomedical data sharing mechanisms, affordable access to cloud services, and secure data analytics workspaces to enable the biomedical research community to achieve the potential of the emergent data and AI ecosystem. This workshop aims to showcase the major challenges impeding researchers’ access to biomedical datasets and computing infrastructures and will cover the key components of the NIH’s cyberinfrastructure developed to advance data science and AI research for biomedical applications.
 
 ## Conference Context
 
 The Pactific Symposium on Biocomputing is an annual conference held in Hawaii, USA, focusing on the intersection of computation and biology. For more details, visit [psb.stanford.edu](https://psb.stanford.edu).
+
+
+## Organizers
+| ![Ojas A. Ramwala](assets/images/ramwala.jpeg) | ![Nick Weber](/assets/images/weber.png) | ![Sean D. Mooney](/assets/images/mooney.jpeg) |
+|:---:|:---:|:---:|
+| **Ojas A. Ramwala, PhD**<br>University of Washington | **Nick Weber**<br>Acting Director<br>Office of Scientific Computing Services<br>Center for Information Technology (CIT)<br>National Institutes of Health | **Sean D. Mooney, PhD**<br>Director<br>Center for Information Technology (CIT)<br>National Institutes of Health (NIH) |
 
 ## Workshop Focus
 
@@ -14,11 +20,6 @@ The Pactific Symposium on Biocomputing is an annual conference held in Hawaii, U
 - Collaborative approaches to managing, storing, sharing, and analyzing biomedical data
 - Solutions to current challenges in the field
 
-## Organizers
-
-- Ojas A. Ramwala, PhD candidate, Department of Biomedical Informatics and Medical Education, University of Washington
-- Nick Weber, Acting Director, Office of Scientific Computing Services, Center for Information Technology (CIT), National Institutes of Health (CIT)
-- Sean D. Mooney, PhD, Director, Center for Information Technology (CIT), National Institutes of Health (NIH)
 
 ## Workshop Schedule
 The workshop will feature keynote speakers, panel discussions, and interactive sessions. Attendees will have the opportunity to engage with experts, share their research, and explore new tools and technologies.
